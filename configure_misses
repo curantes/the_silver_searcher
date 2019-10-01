@@ -1,0 +1,10 @@
+Configure miss: sys/cpuset.h usability
+Configure miss: sys/cpuset.h presence
+Configure miss: sys/cpuset.h
+Configure miss: struct dirent.d_namlen
+Configure miss: fgetln
+Configure miss: pledge
+Configure miss: clang-format-3.8
+Configure miss: clang-format-3.7
+Configure miss: clang-format-3.6
+Configure miss: clang-format
